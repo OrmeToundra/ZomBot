@@ -1,0 +1,5 @@
+{
+    "name": "ZomBot",
+    "version": "1.0",
+    "description": "A bot for the chat program Discord",
+    "main": "index.js" }
